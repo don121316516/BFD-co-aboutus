@@ -1,6 +1,10 @@
 @charset "UTF-8";
+body {
+  height: 2000px;
+}
+
 #product {
-  padding: 30px 30px;
+  padding: 40px;
 }
 
 #box1 {
